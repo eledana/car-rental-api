@@ -1,2 +1,1 @@
-# car-rental-api
-# car-rental-api
+Car rental API using Flask framework and Neo4j database.
